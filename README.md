@@ -27,3 +27,5 @@ Python has been widely used for NLP tasks due to its simplicity and the variety 
 These libraries make Python an excellent choice for NLP tasks, providing powerful tools for tasks ranging from simple text processing to complex machine translation.
 
 ---
+# Order of Notebooks to work with:
+> 1. GS_NLP_CH_01_Intro.ipynb
