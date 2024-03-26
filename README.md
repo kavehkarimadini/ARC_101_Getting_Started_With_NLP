@@ -29,3 +29,4 @@ These libraries make Python an excellent choice for NLP tasks, providing powerfu
 ---
 # Order of Notebooks to work with:
 > 1. GS_NLP_CH_01_Intro.ipynb
+> 2. GS_NLP_CH_02_Spam_text_classification
